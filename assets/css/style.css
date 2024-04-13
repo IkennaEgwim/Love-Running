@@ -114,5 +114,15 @@ footer {
     #menu > li {
         padding-left: 1rem;
 
+        .nav-toggle-label {
+            display: none;
+        }
+
+        #logo {
+            font-size: 280%;
+            line-height: 75px;
+            margin: 0 0.5rem;
+        }
+
     }
 }
