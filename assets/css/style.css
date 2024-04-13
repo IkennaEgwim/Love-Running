@@ -41,6 +41,15 @@ h1 {
     color: #252525;
 }
 
+#menu > li {
+    font-size: 110%;
+    letter-spacing: 4px;
+    list-style-type: none;
+}
+
+#menu {
+    margin-bottom: 1em;
+}
 /* Main content */
 main {
     background-color: lightblue;
